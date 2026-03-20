@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "金糸雀～カナリヤ～(亜季)",
+  "base_artist": "SSGIRLS",
+  "createdAt": "2026-03-20T10:09:00.171347Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "金糸雀～カナリヤ～(亜季)",
+      "artist": "SSGIRLS feat.亜季(CV.小松未可子)",
+      "has_synced": false,
+      "path": "select/pl_01_金糸雀~カナリヤ~(亜季)_SSGIRLS_feat.亜季(CV.小松未可子).txt"
+    }
+  ]
+}
